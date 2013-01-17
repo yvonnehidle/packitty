@@ -10,6 +10,12 @@
 //    http://www.classicgaming.cc/classics/pacman/sounds.php
 // 3. Other sounds
 //    http://www.sounddogs.com
+//
+// GAMEPLAY:
+// Use arrow keys to move
+// Dodge ghosts
+// Achieve goals by eating fish and kibbles
+// To eat ghosts, first eat the catnip
 ////////////////////////////////////////////////////////
 
 
